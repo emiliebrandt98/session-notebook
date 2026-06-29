@@ -1,0 +1,5 @@
+git switch -c <branchname>	Erstelle einen neuen Branch und wechsle zu diesem.
+git switch <branchname>	Zweige wechseln
+git branch	Listen Sie Ihre branches auf
+git branch -a	Alle Branches (lokale und Remote-Branches) auflisten
+git branch -d <branchname>	einen Zweig löschen
